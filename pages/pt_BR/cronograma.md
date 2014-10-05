@@ -12,17 +12,17 @@ Feriado      08-Sep     09-Sep
 2            15-Sep     16-Sep     DM             Deriva genética.
                                                    __Prática:__ simulação de deriva com feijões
 
-3            22-Sep     23-Sep     DM             Modelo básico de seleção natural.
-                                                   __Prática:__ simulação de seleção no [Populus](http://www.cbs.umn.edu/research/resources/populus)
+3            22-Sep     23-Sep     DM             Deriva genética, tamanho efetivo e teoria neutra.
 
-4            29-Sep     30-Sep     DM             Interação entre deriva e seleção.
-                                                   __Prática:__ simulação de deriva, seleção e fluxo gênico
+4            29-Sep     30-Sep     DM             Introdução à seleção natural. __Prática__: modelos determinísticos de seleção.
 
-5            06-Oct     07-Oct     DM             Desequilíbrio de ligação, evolução do genoma
+5            06-Oct     07-Oct     DM              Integração de processos evolutivas: ação conjunta
+                                                    de seleção, deriva e migração. __Prática__: simulações
+                                                    de seleção e deriva no Populus
 
-6            13-Oct     14-Oct     DM             Teoria neutra da evolução molecular
+6            13-Oct     14-Oct     Glauco         Evolução do sexo
 
-7            20-Oct     21-Oct     Glauco         Evolução do sexo
+7            20-Oct     21-Oct     DM             Evolução do genoma e desequilíbrio de ligação.
 
 Feriado      27-Oct     28-Oct
 

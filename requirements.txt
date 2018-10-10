@@ -1,6 +1,6 @@
 Babel==0.9.6
 Fabric==1.5.3
-Flask==0.9
+flask ~> 0.12.3
 Flask-Babel==0.8
 Flask-FlatPages==0.3
 Frozen-Flask==0.9

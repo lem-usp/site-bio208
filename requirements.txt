@@ -1,12 +1,12 @@
 Babel==0.9.6
 Fabric==1.5.3
-flask ~> 0.12.3
+Flask ~> 0.12.3
 Flask-Babel==0.8
 Flask-FlatPages==0.3
 Frozen-Flask==0.9
-Jinja2==2.6
+Jinja2>=2.8.1
 Markdown==2.2.1
-PyYAML==3.10
+pyyaml>=4.2b1
 Werkzeug==0.8.3
 argparse==1.2.1
 distribute==0.6.24
